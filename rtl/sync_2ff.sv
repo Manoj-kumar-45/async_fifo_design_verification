@@ -1,3 +1,5 @@
+// Code your testbench here
+// or browse Examples
 `ifndef SYNC_2FF_SV
 `define SYNC_2FF_SV
 
